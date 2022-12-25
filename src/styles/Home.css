@@ -1,0 +1,12 @@
+button {
+    background-color: rgba(255, 0, 0, 0.685);
+    color: rgba(255, 255, 255, 0.667);
+    border: none;
+    padding: 1rem 2rem;
+    
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: darkred;
+}
